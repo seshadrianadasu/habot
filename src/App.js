@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter,Routes,Route} from 'react-router-dom';
 import Head from './Head'
 import Article from './Article'
 import Body from './Body'
@@ -13,8 +13,9 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path='/' exact element={<Head/>}/>
+      <Route path='/' element={<Head/>}/>
     </Routes>
+    <Head/>
     <Body/>
     <Article/>
     <Poster/>
