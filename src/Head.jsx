@@ -1,6 +1,6 @@
 import React from 'react'
 import habot from './assets/images/habot-logo-removebg-preview.png'
-import {Link} from 'react-router-dom'
+import {Link, Outlet} from 'react-router-dom'
 import { FaChevronDown } from "react-icons/fa";
 function Head() {
   return (
@@ -14,16 +14,17 @@ function Head() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link className="nav-link" href="#">Field Supplier</Link>
+              <Link className="nav-link" to="/FieldSupplier">Field Supplier</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" href="#">Field Service Tags<FaChevronDown/></Link>
+              <Link className="nav-link" to="/FieldTags">Field Service Tags<FaChevronDown/></Link>
             </li>
           </ul>
-          <button className='border-success border border-2 text-success rounded '>Login/SignUp</button>
+          <Link className='border-success border border-2 text-success rounded p-2 text-decoration-none' to="/Login">Login/SignUp</Link>
         </div>
     </div>
 </nav>
+<Outlet/>
     </>
   )
 
