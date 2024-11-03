@@ -33,11 +33,11 @@ function Footer() {
                 </ul>
             </div>
             </div>
-            <div className='icon'>
-                <FaInstagram className='mx-2'/>
-                <SlSocialTwitter className='mx-2'/>
-                <CiFacebook className='mx-2'/>
-                <FaYoutube className='mx-2'/>
+            <div className='icon '>
+                <FaInstagram className='mx-2 '/>
+                <SlSocialTwitter className='mx-2 '/>
+                <CiFacebook className='mx-2 ' />
+                <FaYoutube className='mx-2 '/>
             </div>
         </div>
     </footer>

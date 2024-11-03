@@ -8,7 +8,7 @@ import './App.css'
 import Verified from './Verified'
 import StepsToVerify from './StepsToVerify';
 import Footer from './Footer';
-import Login from './Login'
+import SignUp from './SignUp'
 import FieldSupplier from './FieldSupplier';
 import FieldTags from './FieldTags';
 
@@ -17,7 +17,7 @@ function App() {
     <BrowserRouter>
     <Routes>
       <Route path='/' element={<Head/>}>
-      <Route path='Login' element={<Login/>}></Route>
+      <Route path='SignUp' element={<SignUp/>}></Route>
       <Route path='FieldSupplier' exact element={<FieldSupplier/>}></Route>
       <Route path='FieldTags' exact element={<FieldTags/>}></Route>
       </Route>

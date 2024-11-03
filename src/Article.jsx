@@ -4,14 +4,14 @@ import { FaArrowRightLong } from "react-icons/fa6";
 function Article() {
   return (
     <>
-    <div className='container mt-5 d-flex justify-content-between block '>
+    <div className='container mt-5 d-flex justify-content-between  '>
         <div className='w-50 '>
-            <h1 className=''><strong>Ready to dive into <span className='color '>HABOT?</span></strong></h1>
+            <h1 className='block'><strong>Ready to dive into <span className='color '>HABOT?</span></strong></h1>
             <p>Signing up with HABOT opens the door to a world of new opportunities 
                 and potential for business growth. Gain access to a vibrant community 
                 of like-minded individuals, unlock valuable resources, and take the first 
                 step towards realizing your entrepreneurial dreams.</p>
-            <button className='btn btn-success button' >Sign up Today! <FaArrowRightLong/></button>
+            <button className='btn btn-success button' type="button">Sign up Today! <FaArrowRightLong/></button>
         </div>
         <div className=''>
             <div className='d-flex justify-content-between border-design'>

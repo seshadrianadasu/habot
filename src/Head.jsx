@@ -20,7 +20,7 @@ function Head() {
               <Link className="nav-link" to="/FieldTags">Field Service Tags<FaChevronDown/></Link>
             </li>
           </ul>
-          <Link className='border-success border border-2 text-success rounded p-2 text-decoration-none' to="/Login">Login/SignUp</Link>
+          <Link className='border-success border border-2 text-success rounded p-2 text-decoration-none' to="/SignUp">Login/SignUp</Link>
         </div>
     </div>
 </nav>

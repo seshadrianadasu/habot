@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.d87bb01b.css",
-    "main.js": "/project/static/js/main.ebf4a774.js",
+    "main.css": "/project/static/css/main.f65d9005.css",
+    "main.js": "/project/static/js/main.ec70b003.js",
     "static/js/453.5e560239.chunk.js": "/project/static/js/453.5e560239.chunk.js",
+    "static/media/habot-video.mp4": "/project/static/media/habot-video.62b2eae7ac70aec3fada.mp4",
     "static/media/bhurjkhalifa.jpeg": "/project/static/media/bhurjkhalifa.313b09e54a5f20bd586a.jpeg",
     "static/media/habot-logo-removebg-preview.png": "/project/static/media/habot-logo-removebg-preview.10cecc73bf23382e07de.png",
     "static/media/resume.png": "/project/static/media/resume.60c4f53d340d7c84130f.png",
@@ -11,12 +12,12 @@
     "static/media/paper.png": "/project/static/media/paper.56b0d2a9f362aa89b93a.png",
     "static/media/sharing.png": "/project/static/media/sharing.ae8e7567bdc9aafae89d.png",
     "index.html": "/project/index.html",
-    "main.d87bb01b.css.map": "/project/static/css/main.d87bb01b.css.map",
-    "main.ebf4a774.js.map": "/project/static/js/main.ebf4a774.js.map",
+    "main.f65d9005.css.map": "/project/static/css/main.f65d9005.css.map",
+    "main.ec70b003.js.map": "/project/static/js/main.ec70b003.js.map",
     "453.5e560239.chunk.js.map": "/project/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d87bb01b.css",
-    "static/js/main.ebf4a774.js"
+    "static/css/main.f65d9005.css",
+    "static/js/main.ec70b003.js"
   ]
 }
