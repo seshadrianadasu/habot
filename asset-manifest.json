@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/habot/static/css/main.5cd370ad.css",
+    "main.js": "/habot/static/js/main.5dfb9914.js",
+    "static/js/453.5e560239.chunk.js": "/habot/static/js/453.5e560239.chunk.js",
+    "static/media/habot-video.mp4": "/habot/static/media/habot-video.62b2eae7ac70aec3fada.mp4",
+    "static/media/bhurjkhalifa.jpeg": "/habot/static/media/bhurjkhalifa.313b09e54a5f20bd586a.jpeg",
+    "static/media/habot-logo-removebg-preview.png": "/habot/static/media/habot-logo-removebg-preview.10cecc73bf23382e07de.png",
+    "static/media/resume.png": "/habot/static/media/resume.60c4f53d340d7c84130f.png",
+    "static/media/habot-logo.jpg": "/habot/static/media/habot-logo.0b3ab345ce272261443d.jpg",
+    "static/media/handshake.png": "/habot/static/media/handshake.3e36b6e2b30b1d5df810.png",
+    "static/media/paper.png": "/habot/static/media/paper.56b0d2a9f362aa89b93a.png",
+    "static/media/sharing.png": "/habot/static/media/sharing.ae8e7567bdc9aafae89d.png",
+    "index.html": "/habot/index.html",
+    "main.5cd370ad.css.map": "/habot/static/css/main.5cd370ad.css.map",
+    "main.5dfb9914.js.map": "/habot/static/js/main.5dfb9914.js.map",
+    "453.5e560239.chunk.js.map": "/habot/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd370ad.css",
+    "static/js/main.5dfb9914.js"
+  ]
+}
